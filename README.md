@@ -3,8 +3,9 @@
   <h2>선지원</h2>
 </div>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+<div>
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{tjswldnjs126}"/>
+</div>
 
 <div>
   <!--내용 부분-->
