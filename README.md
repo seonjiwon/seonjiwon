@@ -45,6 +45,6 @@
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Intellij-2C2C32.svg?style=for-the-badge&logo=intellij&logoColor=22ABF3" />&nbsp
+  <img src="https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge" />&nbsp
 
 </div>
