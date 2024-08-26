@@ -5,7 +5,7 @@
 
 ### Algorithm
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksi990302)](https://solved.ac/tjswldnjs126)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjswldnjs126)](https://solved.ac/tjswldnjs126)
 
 <div>
   <!--내용 부분-->
