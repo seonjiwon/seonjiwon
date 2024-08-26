@@ -1,7 +1,4 @@
-<!--타이틀 부분-->
-<div align="center">
-  <h2>선지원</h2>
-</div>
+### JiWon Seon
 
 ### Algorithm
 
