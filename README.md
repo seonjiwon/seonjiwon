@@ -1,18 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=SeonJiWon"/>
 
 ## ⭐GIt Information
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lwonbin)](https://github.com/Lwonbin/Lwonbin)       [![GitHub Streak](https://streak-stats.demolab.com/?user=Lwonbin&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonjiwon)](https://github.com/seonjiwon/seonjiwon)       [![GitHub Streak](https://streak-stats.demolab.com/?user=seonjiwon&theme=dark)](https://git.io/streak-stats)
 
 
 
 ## ⭐Statistics
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seonjiwon)](https://github.com/seonjiwon/seonjiwon)        [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjswldnjs126)](https://solved.ac/tjswldnjs126)
-
-
-### Algorithm
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjswldnjs126)](https://solved.ac/tjswldnjs126)
-
 
 ### Skills
 
