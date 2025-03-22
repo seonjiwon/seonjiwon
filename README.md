@@ -10,7 +10,7 @@
 
 
 ## ⭐Statistics
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seonjiwon)](https://github.com/seonjiwon/seonjiwon)        [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjswldnjs126)](https://solved.ac/tjswldnjs126)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjswldnjs126)](https://solved.ac/tjswldnjs126)
 
 ### Skills
 
