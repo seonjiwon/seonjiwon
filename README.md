@@ -4,8 +4,8 @@
 
 - 🔗 [Team Project - Speako](https://github.com/Speako-org)
 
-## ⭐GIT Information
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonjiwon)](https://github.com/seonjiwon/seonjiwon)       
+### 💻 What i use?
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonjiwon&langs_count=7&layout=compact&theme=dark)](https://github.com/seonjiwon/seonjiwon)       
 
 
 
