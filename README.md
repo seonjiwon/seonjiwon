@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=SeonJiWon"/>
-
 ## 협업 프로젝트 링크
 
 - 🔗 [Team Project - Speako](https://github.com/Speako-org)
