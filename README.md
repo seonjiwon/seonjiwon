@@ -11,6 +11,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjswldnjs126)](https://solved.ac/tjswldnjs126)
 
 ## Baekjoon (Java)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiwon0126)](https://solved.ac/jiwon0126)
 
 ### 💪 Skills
 #### Platforms & Languages
