@@ -17,8 +17,8 @@
 ### 💪 Skills
 #### Platforms & Languages
 <p>
-    <img src="https://img.shields.io/badge/Java-1E2A38?style=round-square&logo=Java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring-1E2A38?style=round-square&logo=Spring&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git-1E2A38?style=round-square&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Github-1E2A38?style=round-square&logo=Github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=round-square&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=round-square&logo=Git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=round-square&logo=GitHub&logoColor=white"/>
 </p>
