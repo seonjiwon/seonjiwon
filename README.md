@@ -21,3 +21,7 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=round-square&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=round-square&logo=GitHub&logoColor=white"/>
 </p>
+
+## Certifications
+
+[![AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/6647862c-2944-4cda-92c7-346b8222beb4/public_url)](https://www.credly.com/badges/abc123-your-badge-link)
