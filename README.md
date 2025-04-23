@@ -2,14 +2,6 @@
 
 - 🔗 [Team Project - Speako](https://github.com/Speako-org)
 
-## 💻 What i use?
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonjiwon&langs_count=7&layout=compact&theme=dark)](https://github.com/seonjiwon/seonjiwon)       
-
-
-
-## Baekjoon (Python)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjswldnjs126)](https://solved.ac/tjswldnjs126)
-
 ## Baekjoon (Java)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiwon0126)](https://solved.ac/jiwon0126)
 
