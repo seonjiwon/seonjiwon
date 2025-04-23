@@ -1,7 +1,3 @@
-## 협업 프로젝트 링크
-
-- 🔗 [Team Project - Speako](https://github.com/Speako-org)
-
 ## Baekjoon (Java)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiwon0126)](https://solved.ac/jiwon0126)
 
